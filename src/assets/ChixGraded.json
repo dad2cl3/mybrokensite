@@ -1,0 +1,246 @@
+{
+  "root": "/img/chixgraded/",
+  "extension": ".jpg",
+  "images": [
+    {
+      "index": 0,
+      "path": "44235828",
+      "description": "1 John Charles (Leeds and Wales)"
+    },
+    {
+      "index": 1,
+      "path": "44235830",
+      "description": "2 Jack Kelsey (Arsenal and Wales)"
+    },
+    {
+      "index": 2,
+      "path": "44235832",
+      "description": "3 S. Williams (West Bromwich)"
+    },
+    {
+      "index": 3,
+      "path": "43425213",
+      "description": "4 J. Dick (West Ham)"
+    },
+    {
+      "index": 4,
+      "path": "43425217",
+      "description": "5 Ted Ditchburn (Spurs and England)"
+    },
+    {
+      "index": 5,
+      "path": "43425220",
+      "description": "6 Wally Bragg (Brentford)"
+    },
+    {
+      "index": 6,
+      "path": "43425222",
+      "description": "7 W. Robertson (Chelsea)"
+    },
+    {
+      "index": 7,
+      "path": "43425224",
+      "description": "8 Tom Docherty (Preston and Scotland)"
+    },
+    {
+      "index": 8,
+      "path": "44235843",
+      "description": "9 Derek Tapscott (Arsenal and Wales)"
+    },
+    {
+      "index": 9,
+      "path": "43425230",
+      "description": "10 Johnny Nicholls (West Bromwich and England)"
+    },
+    {
+      "index": 10,
+      "path": "43425233",
+      "description": "11 Packy MacParland (Aston Villa)"
+    },
+    {
+      "index": 11,
+      "path": "43425236",
+      "description": "12 Laurie Reilly (Hibernians and Scotland)"
+    },
+    {
+      "index": 12,
+      "path": "44235852",
+      "description": "13 Duncan Edwards (Manchester United)"
+    },
+    {
+      "index": 13,
+      "path": "43425239",
+      "description": "14 Johnny Haynes (Fulham and England)"
+    },
+    {
+      "index": 14,
+      "path": "43425243",
+      "description": "15 Alex Forbes (Leyton Orient and Scotland)"
+    },
+    {
+      "index": 15,
+      "path": "43425245",
+      "description": "16 Ron Staniforth (Huddersfield and England)"
+    },
+    {
+      "index": 16,
+      "path": "44235859",
+      "description": "17 B. Hayward (Port Vale)"
+    },
+    {
+      "index": 17,
+      "path": "44235862",
+      "description": "18 E. Burgin (Sheffield United and England)"
+    },
+    {
+      "index": 18,
+      "path": "44235864",
+      "description": "19 J. Whitefoot (Manchester United)"
+    },
+    {
+      "index": 19,
+      "path": "43425258",
+      "description": "20 Ken Green (Birmingham and England)"
+    },
+    {
+      "index": 20,
+      "path": "43425259",
+      "description": "21 Frank Lock (Liverpool)"
+    },
+    {
+      "index": 21,
+      "path": "43425262",
+      "description": "22 E. Quigley (Blackburn Rovers)"
+    },
+    {
+      "index": 22,
+      "path": "43425265",
+      "description": "23 J. McIlroy (Burnley and Ireland)"
+    },
+    {
+      "index": 23,
+      "path": "43425272",
+      "description": "24 Willie Woodburn (Rangers and Scotland)"
+    },
+    {
+      "index": 24,
+      "path": "43425277",
+      "description": "25 E. Bell (Bolton)"
+    },
+    {
+      "index": 25,
+      "path": "44235879",
+      "description": "26 Peter Broadbent (Wolves)"
+    },
+    {
+      "index": 26,
+      "path": "44235881",
+      "description": "27 Frank Blunstone (Chelsea and England)"
+    },
+    {
+      "index": 27,
+      "path": "43425284",
+      "description": "28 Ron Allen (West Bromwich and England)"
+    },
+    {
+      "index": 28,
+      "path": "43425289",
+      "description": "29 Bedford Jezzard (Fulham and England)"
+    },
+    {
+      "index": 29,
+      "path": "43425292",
+      "description": "30 R. D. Blanchflower (Tottenham and Eire)"
+    },
+    {
+      "index": 30,
+      "path": "43425295",
+      "description": "31 D. Hickson (Huddersfield)"
+    },
+    {
+      "index": 31,
+      "path": "44235890",
+      "description": "32 Geoff Twentyman (Liverpool)"
+    },
+    {
+      "index": 32,
+      "path": "43425300",
+      "description": "33 David Walsh (Aston Villa and Eire)"
+    },
+    {
+      "index": 33,
+      "path": "43425305",
+      "description": "34 Sammy Cox (Rangers and Scotland)"
+    },
+    {
+      "index": 34,
+      "path": "43425308",
+      "description": "35 W. Dickson (Mansfield and Eire)"
+    },
+    {
+      "index": 35,
+      "path": "43425311",
+      "description": "36 Sid Owen (Luton and Eire)"
+    },
+    {
+      "index": 36,
+      "path": "43425314",
+      "description": "37 Charlie Wayman (Middlesbrough)"
+    },
+    {
+      "index": 37,
+      "path": "43425315",
+      "description": "38 Brian Pilkington (Burnley and England)"
+    },
+    {
+      "index": 38,
+      "path": "43425319",
+      "description": "39 J. Blanchflower (Manchester United and Ireland)"
+    },
+    {
+      "index": 39,
+      "path": "43425322",
+      "description": "40 Johnny Morris (Leicester and England)"
+    },
+    {
+      "index": 40,
+      "path": "43425324",
+      "description": "41 Stan Willemse (Leyton Orient)"
+    },
+    {
+      "index": 41,
+      "path": "43425326",
+      "description": "42 Ernie Taylor (Blackpool and England)"
+    },
+    {
+      "index": 42,
+      "path": "43425328",
+      "description": "43 Ken Armstrong (Chelsea and England)"
+    },
+    {
+      "index": 43,
+      "path": "43425330",
+      "description": "44 Cliff Holton (Arsenal)"
+    },
+    {
+      "index": 44,
+      "path": "43425332",
+      "description": "45 B. Peacock (Celtic)"
+    },
+    {
+      "index": 45,
+      "path": "43425333",
+      "description": "46 Roger Byrne (Manchester United and England)"
+    },
+    {
+      "index": 46,
+      "path": "46373946",
+      "description": "47 George Young (Rangers and Scotland)"
+    },
+    {
+      "index": 47,
+      "path": "43425339",
+      "description": "48 Arthur Milton (Bristol City and England)"
+    }
+  ]
+}

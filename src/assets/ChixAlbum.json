@@ -1,0 +1,72 @@
+{
+  "root": "https://s3.amazonaws.com/personal-collection/sports/soccer/1957ChixConfectionarySeries2Book",
+  "extension": "jpg",
+  "lowResFolder": "lowRes",
+  "hiResFolder": "hiRes",
+  "images": [
+    {
+      "index": 0,
+      "name": "ChixAlbum_001"
+    },
+    {
+      "index": 1,
+      "name": "ChixAlbum_002"
+    },
+    {
+      "index": 2,
+      "name": "ChixAlbum_003"
+    },
+    {
+      "index": 3,
+      "name": "ChixAlbum_004"
+    },
+    {
+      "index": 4,
+      "name": "ChixAlbum_005"
+    },
+    {
+      "index": 5,
+      "name": "ChixAlbum_006"
+    },
+    {
+      "index": 6,
+      "name": "ChixAlbum_007"
+    },
+    {
+      "index": 7,
+      "name": "ChixAlbum_008"
+    },
+    {
+      "index": 8,
+      "name": "ChixAlbum_009"
+    },
+    {
+      "index": 9,
+      "name": "ChixAlbum_010"
+    },
+    {
+      "index": 10,
+      "name": "ChixAlbum_011"
+    },
+    {
+      "index": 11,
+      "name": "ChixAlbum_012"
+    },
+    {
+      "index": 12,
+      "name": "ChixAlbum_013"
+    },
+    {
+      "index": 13,
+      "name": "ChixAlbum_014"
+    },
+    {
+      "index": 14,
+      "name": "ChixAlbum_015"
+    },
+    {
+      "index": 15,
+      "name": "ChixAlbum_016"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "players": [
+    {
+      "index": 0,
+      "name": "Robert \"Bobby\" Brown",
+      "coords": "60,171,100,337,502,223,454,84",
+      "modal": "bottom",
+      "image": "/img/rangers/Bobby-Brown2.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Bobby_Brown_(footballer,_born_1923)"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/bobby-brown/"
+        },
+        {
+          "name": "Scottish Football Hall of Fame",
+          "link": "http://scottishfootballhalloffame.co.uk/bobby-brown/"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "name": "John \"Ian\" McColl",
+      "coords": "760,52,712,138,1084,172,1098,95",
+      "modal": "middle",
+      "image": "/img/rangers/Ian-McColl2.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Ian_McColl"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/ian-mccoll/"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "William \"Willie\" Woodburn",
+      "modal": "middle",
+      "coords": "6,511,469,287,454,241,102,341,8,395",
+      "image": "/img/rangers/Willie-Woodburn.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Willie_Woodburn"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/willie-woodburn/"
+        },
+        {
+          "name": "Scottish Football Hall of Fame",
+          "link": "http://scottishfootballhalloffame.co.uk/willie-woodburn-1919-2001/"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Torrance \"Torry\" Gillick",
+      "coords": "697,383,883,352,978,360,1038,321,998,486,760,497,703,438",
+      "modal": "middle",
+      "image": "/img/rangers/Torry-Gillick.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Torrance_Gillick"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/torry-gillick/"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Joseph \"Billy\" Arnison",
+      "coords": "19,733,64,713,73,634,324,508,308,457,135,496,50,528,10,621",
+      "modal": "middle",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Billy_Arnison"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "name": "James \"Jimmy\" Caskie",
+      "coords": "1046,602,1067,536,874,470,834,505,785,613,809,630,870,567",
+      "modal": "middle",
+      "image": "/img/rangers/Jimmy-Caskie.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Jimmy_Caskie"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Robert \"Whitey\" McDonald",
+      "coords": "6,769,38,873,325,694,302,604,84,709",
+      "modal": "bottom",
+      "image": "/img/rangers/Whitey-McDonald.jpg",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Whitey_McDonald"
+        },
+        {
+          "name": "Canada Soccer Hall of Fame",
+          "link": "https://canadasoccer.com/index.php?pid=2076&t=profile&"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "name": "William \"Billy\" Williamson",
+      "coords": "721,766,836,787,1089,1093,1119,953,1002,756,785,565,678,580",
+      "modal": "bottom",
+      "image": "/img/rangers/Billy-Williamson.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Billy_Williamson_(footballer,_born_1922)"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "name": "Samuel \"Sammy\" Cox",
+      "coords": "1107,861,1111,266,1021,263,936,400,942,662",
+      "modal": "bottom",
+      "image": "/img/rangers/Sammy-Cox.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Sammy_Cox"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/sammy-cox/"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "name": "William \"Willie\" Waddell",
+      "coords": "47,1127,32,1234,213,1137,477,1074,492,996,240,1060",
+      "modal": "top",
+      "image": "/img/rangers/Willie-Waddell.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Willie_Waddell"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/willie-waddell/"
+        },
+        {
+          "name": "Scottish Football Hall of Fame",
+          "link": "http://scottishfootballhalloffame.co.uk/willie-waddell-1921-1992/"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "name": "James \"Jimmy\" Parlane",
+      "coords": "569,1089,635,1048,922,1125,978,1101,787,918,671,898,549,1068",
+      "modal": "top",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "name": "John \"Tiger\" Shaw",
+      "coords": "133,1187,222,1140,349,1108,478,1079,525,1136,468,1168,268,1222,137,1273,97,1376,70,1357",
+      "modal": "top",
+      "image": "/img/rangers/Jock-Shaw.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Jock_Shaw"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/jock-shaw/"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "name": "George Young",
+      "coords": "515,1114,542,1161,637,1133,700,1157,686,1193,706,1210,777,1178,902,1213,940,1293,1118,1224,900,1121,664,1060",
+      "modal": "top",
+      "image": "/img/rangers/George-Young.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/George_Young_(Scottish_footballer)"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/george-young/"
+        },
+        {
+          "name": "Scottish Football Hall of Fame",
+          "link": "http://scottishfootballhalloffame.co.uk/george-young-1922-1997/"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "name": "James \"Jimmy\" Smith",
+      "coords": "97,1383,137,1413,172,1337,423,1344,647,1243,598,1158,440,1161,101,1312",
+      "modal": "middle",
+      "image": "/img/rangers/Jimmy-Smith.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Jimmy_Smith_(footballer,_born_1911)"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/jimmy-smith/"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "name": "William \"Willie\" Thornton",
+      "coords": "651,1236,544,1358,569,1368,719,1367,794,1342,969,1348,1018,1285",
+      "modal": "middle",
+      "image": "/img/rangers/Willie-Thornton.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Willie_Thornton"
+        },
+        {
+          "name": "Rangers FC Hall of Fame",
+          "link": "https://rangers.co.uk/club/history/hall-of-fame/willie-thornton/"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "name": "Charles \"Charlie\" Watkins",
+      "coords": "135,1375,82,1468,85,1559,242,1508,619,1427,610,1384,442,1307",
+      "modal": "middle",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Charlie_Watkins"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "name": "William \"Bill\" Struth",
+      "coords": "164,1527,91,1652,298,1670,714,1535,830,1455,834,1354,450,1433",
+      "modal": "middle",
+      "image": "/img/rangers/Bill-Struth.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Bill_Struth"
+        },
+        {
+          "name": "Rangers FC",
+          "link": "https://rangers.co.uk/club/history/former-managers/bill-struth/"
+        },
+        {
+          "name": "Scottish Football Hall of Fame",
+          "link": "http://scottishfootballhalloffame.co.uk/bill-struth-1873-1956/"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "name": "William \"Willie\" Rae",
+      "coords": "782,1491,768,1573,1058,1373,1035,1340,981,1341",
+      "modal": "middle",
+      "image": "/img/rangers/Willie-Rae.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Willie_Rae_(footballer,_born_1924)"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "name": "James \"Jimmy\" Duncanson",
+      "coords": "639,1549,566,1625,615,1721,653,1644,1056,1605,1060,1559,704,1543",
+      "modal": "middle",
+      "image": "/img/rangers/Jimmy-Duncanson.png",
+      "links": [
+        {
+          "name": "Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Jimmy_Duncanson"
+        }
+      ]
+    }
+  ]
+}

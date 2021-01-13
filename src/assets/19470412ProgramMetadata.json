@@ -1,0 +1,10 @@
+{
+  "root": "https://s3.amazonaws.com/www.mybrokensite.com/19470412program/",
+  "extension": ".png",
+  "images": [
+    {
+      "index": 0,
+      "path": "01-19470412-EnglandvScotlandProgram-FrontCover"
+    }
+  ]
+}
